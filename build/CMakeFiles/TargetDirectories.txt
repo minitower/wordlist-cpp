@@ -1,0 +1,3 @@
+/home/minitower/projects/WordlistGenerator/build/CMakeFiles/WordlistGenerator.dir
+/home/minitower/projects/WordlistGenerator/build/CMakeFiles/edit_cache.dir
+/home/minitower/projects/WordlistGenerator/build/CMakeFiles/rebuild_cache.dir

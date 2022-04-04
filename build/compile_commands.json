@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/minitower/projects/WordlistGenerator/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/WordlistGenerator.dir/main.cpp.o -c /home/minitower/projects/WordlistGenerator/main.cpp",
+  "file": "/home/minitower/projects/WordlistGenerator/main.cpp"
+},
+{
+  "directory": "/home/minitower/projects/WordlistGenerator/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/WordlistGenerator.dir/numberGenerator.cpp.o -c /home/minitower/projects/WordlistGenerator/numberGenerator.cpp",
+  "file": "/home/minitower/projects/WordlistGenerator/numberGenerator.cpp"
+},
+{
+  "directory": "/home/minitower/projects/WordlistGenerator/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/WordlistGenerator.dir/logLib.cpp.o -c /home/minitower/projects/WordlistGenerator/logLib.cpp",
+  "file": "/home/minitower/projects/WordlistGenerator/logLib.cpp"
+},
+{
+  "directory": "/home/minitower/projects/WordlistGenerator/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/WordlistGenerator.dir/phoneGenerator.cpp.o -c /home/minitower/projects/WordlistGenerator/phoneGenerator.cpp",
+  "file": "/home/minitower/projects/WordlistGenerator/phoneGenerator.cpp"
+}
+]

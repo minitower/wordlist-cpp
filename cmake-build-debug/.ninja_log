@@ -1,0 +1,11 @@
+# ninja log v5
+0	280	1648656546799261279	CMakeFiles/WordlistGenerator.dir/main.cpp.o	1ccb8a394bbb5294
+260	321	1648465155156231479	WordlistGenerator	6fb8d27e0ec19ae
+0	311	1648656648623006705	CMakeFiles/WordlistGenerator.dir/numberGenerator.cpp.o	3eb53fc4e5fb08e8
+1	357	1648465119459942609	CMakeFiles/WordlistGenerator.dir/phoneGenerator.cpp.o	3475bd2ad24d79ac
+1	438	1648971040934054925	CMakeFiles/WordlistGenerator.dir/numberGenerator.cpp.o	3eb53fc4e5fb08e8
+1	769	1648971041266054920	CMakeFiles/WordlistGenerator.dir/main.cpp.o	1ccb8a394bbb5294
+1	649	1648971236894052145	CMakeFiles/WordlistGenerator.dir/main.cpp.o	1ccb8a394bbb5294
+1	656	1648971317522051002	CMakeFiles/WordlistGenerator.dir/main.cpp.o	1ccb8a394bbb5294
+1	669	1648971387046050015	CMakeFiles/WordlistGenerator.dir/logLib.cpp.o	2a42bcf87a733b86
+1	824	1648971387198050013	CMakeFiles/WordlistGenerator.dir/main.cpp.o	1ccb8a394bbb5294
